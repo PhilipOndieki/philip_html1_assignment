@@ -1,9 +1,21 @@
-HTML5 Assignment: Accessibility & SEO Basics
-Complete HTML5 webpage demonstrating semantic structure, accessibility, and SEO optimization.
-File: index.html
-Sustainable living tips webpage with detailed comments explaining all HTML5, accessibility, and SEO concepts.
-Features
-✅ HTML5 semantic elements (header, main, article, section, aside, footer)
-✅ Accessibility features (ARIA labels, skip links, proper heading hierarchy)
-✅ SEO optimization (meta tags, structured content, semantic markup)
-View: Open index.html in any browser. Check source code for learning comments.
+# 🌿 Green Living Tips - Sustainable Lifestyle Guide
+
+This project is a semantic, SEO-optimized, and accessibility-friendly HTML page offering practical tips for living sustainably.
+
+## 📄 Overview
+
+The website promotes green living by sharing actionable tips across three main categories:
+- **Energy Conservation**
+- **Water Conservation**
+- **Waste Reduction**
+
+It also features environmental facts, a clear call to action, and accessible navigation for a better user experience.
+
+## ✅ Features
+
+- 🌍 Fully semantic HTML5 structure
+- ♿ Accessibility enhancements using `aria` roles and labels
+- 🔍 SEO-friendly meta tags and headings
+- 📚 Organized with sections, articles, and lists for clarity
+- 📞 Includes contact details and call-to-action
+- 🕓 Displays last updated date for transparency
